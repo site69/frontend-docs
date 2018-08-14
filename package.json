@@ -1,0 +1,16 @@
+{
+  "name": "frontend-docs",
+  "version": "0.0.1",
+  "description": "Рекомендации по разработке фронтенда в Site69",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vuepress": "^0.14.1"
+  }
+}
